@@ -496,7 +496,7 @@ while (true) {
         break;
     } else {
         alert("Invalid password: " + validationMessage);
-        password = prompt("Enter your password:");
+
     }
 }
 //16
